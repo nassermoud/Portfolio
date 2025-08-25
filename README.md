@@ -10,7 +10,7 @@ Je suis un Data Analyste avec 8 ans d'expérience, spécialisé en analyse de do
 
 ## Formations et Certificats
 
-ML-Pro : Formation de Machine Learning Professionnel de Guillaume Saint-Cirgue (En cours) 
+ML-Pro : Formation de Machine Learning Professionnel de Guillaume Saint-Cirgue (En cours).
 Master2 en Statistique et Économétrie - Université ESCAE-BENIN (2023-2024).
 Master1 en Statistique et Économétrie - Université ESCAE-BENIN (2022-2023).
 Certificat: Frontier Tech leaders Programme Djibouti Implementation Machine Learning Bootcomp (Mars à Mai 2024).
@@ -61,4 +61,4 @@ Autres Missions et Expériences
 ## Compétences Informatiques
 
 - Word, Internet, Access, PowerPoint, Excel, Dropbox.
-- Outils statistiques (Traitement et collecte) : Python, STATA, SPSS, R, CSPro, Kobo toolbox, Dev info, Nesstar Publisher, Quantum GIS, Sphinx, Portail Enrôlement, RSMIS.
+- Outils statistiques (Traitement et collecte) : Python, SQL, STATA, SPSS, R, CSPro, Kobo toolbox, Dev info, Nesstar Publisher, Quantum GIS, Sphinx, Portail Enrôlement, RSMIS.
