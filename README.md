@@ -1,8 +1,9 @@
 # Portfolio
 
 
-## Profile : Data Analyste, Data Scientiste et Suivi-Evaluation
-Je suis un Data Analyste avec 8 ans d'expérience, spécialisé en analyse de données et machine Learning. Curieux et innovant, j'ai développé des compétences avancées en science des données et en modélisation statistique, que j'utilise pour extraire des insights et éclairer les décisions stratégiques. Je suis reconnu pour ma collaboration efficace et ma capacité à produire des résultats de qualité dans des environnements dynamiques.
+## Profile : Data Science & Analytics | IA & Machine Learning | Suivi-Évaluation
+
+Data Analyst avec 8 ans d’expérience, spécialisé en analyse de données et en machine learning. Curieux et innovant, j’ai acquis des compétences avancées en science des données, modélisation statistique et optimisation de modèles, que je mets au service de la prise de décision stratégique. Reconnu pour ma rigueur, ma collaboration efficace et ma capacité à transformer des données complexes en insights clairs et exploitables dans des environnements exigeants.
 
 
 
@@ -72,5 +73,10 @@ Consultant – Programme National Solidarité Famille (PNSF), Banque Mondiale | 
 
 ## Compétences Informatiques
 
-- Word, Internet, Access, PowerPoint, Excel, Dropbox.
-- Outils statistiques (Traitement et collecte) : Python, SQL, STATA, SPSS, R, CSPro, Kobo toolbox, Dev info, Nesstar Publisher, Quantum GIS, Sphinx, Portail Enrôlement, RSMIS.
+o	Bureautique & Collaboration : Word, Excel, PowerPoint, Access, Internet, Dropbox.
+o	Programmation & Bases de données : Python, SQL, R.
+o	Analyse & Statistiques : STATA, SPSS, Sphinx.
+o	Collecte & Gestion des données : Kobo Toolbox, CSPro, DevInfo, Nesstar Publisher, Portail Enrôlement, RSMIS.
+o	Déploiement & Outils DevOps : Git, Docker, Streamlit, Cloud (AWS, GCP, Azure).
+
+
