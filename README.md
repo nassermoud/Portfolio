@@ -74,9 +74,13 @@ Consultant – Programme National Solidarité Famille (PNSF), Banque Mondiale | 
 ## Compétences Informatiques
 
 o	Bureautique & Collaboration : Word, Excel, PowerPoint, Access, Internet, Dropbox.
+
 o	Programmation & Bases de données : Python, SQL, R.
+
 o	Analyse & Statistiques : STATA, SPSS, Sphinx.
+
 o	Collecte & Gestion des données : Kobo Toolbox, CSPro, DevInfo, Nesstar Publisher, Portail Enrôlement, RSMIS.
+
 o	Déploiement & Outils DevOps : Git, Docker, Streamlit, Cloud (AWS, GCP, Azure).
 
 
