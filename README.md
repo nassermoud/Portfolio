@@ -3,10 +3,7 @@
 
 ## Profile : Data Science & Analytics | IA & Machine Learning | Suivi-Évaluation
 
-Data Analyst avec 8 ans d’expérience, spécialisé en analyse de données et en machine learning. Curieux et innovant, j’ai acquis des compétences avancées en science des données, modélisation statistique et optimisation de modèles, que je mets au service de la prise de décision stratégique. Reconnu pour ma rigueur, ma collaboration efficace et ma capacité à transformer des données complexes en insights clairs et exploitables dans des environnements exigeants.
-
-
-
+Data Analyst avec 9 ans d’expérience, spécialisé en analyse de données et en machine learning. Curieux et innovant, j’ai acquis des compétences avancées en science des données, modélisation statistique et optimisation de modèles, que je mets au service de la prise de décision stratégique. Reconnu pour ma rigueur, ma collaboration efficace et ma capacité à transformer des données complexes en insights clairs et exploitables dans des environnements exigeants.
 
 
 ## Formations et Certificats
