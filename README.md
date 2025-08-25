@@ -11,7 +11,7 @@ Data Analyst avec 8 ans d’expérience, spécialisé en analyse de données et 
 
 ## Formations et Certificats
 
-ML-Pro : Formation de Machine Learning Professionnel de Guillaume Saint-Cirgue (En cours):
+ML-Pro : Formation de Machine Learning Professionnel de Guillaume Saint-Cirgue:
 
     • Data Science & Programmation: Python, Pandas, Numpy, SQL, Git.
     • Machine Learning: Préprocessing, modélisation, optimisation, évaluation (Accuracy, F1-score).
