@@ -22,8 +22,6 @@ ML-Pro : Formation de Machine Learning Professionnel de Guillaume Saint-Cirgue (
 
 Master2 en Statistique et Économétrie - Université ESCAE-BENIN (2023-2024).
 
-Master1 en Statistique et Économétrie - Université ESCAE-BENIN (2022-2023).
-
 Certificat: Frontier Tech leaders Programme Djibouti Implementation Machine Learning Bootcomp (Mars à Mai 2024).
 
 Certificat du HP Life : 10 Certificats dont 2 en leadership et 8 en Entreprenariat (Mai à Juin 2024) (détails disponibles sur mon LinkedIn).
