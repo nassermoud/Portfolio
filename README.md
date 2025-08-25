@@ -52,32 +52,23 @@ Baccalauréat Scientifique - Lycée d’état de Djibouti (2011-2012).
 
 ## Expérience Professionnelle
 
-Ministère des Affaires Sociales et de la Solidarité (MASS) - 2017 - Présent
-Responsable du service étude et statistique (septembre 2023 – jusqu’à présent)
-  - Supervision et coordination des activités du service.
-  - Définir des objectifs et des priorités du service en lien avec la mission du ministère.
-  - Participation et publications des rapports.
+Ministère des Affaires Sociales et de la Solidarité (MASS), Djibouti — 2017 à Présent
 
-Consultant du Projet Intégré de Transfert monétaire et renforcement du Capital Humain(PITCH), exécute par le MASS, financé par le Banque Mondial (janvier 2018 - août 2023)
-Consultant de Suivi-évaluation (janvier 2020 - août 2023)
-  - Suivi des indicateurs des programmes, projets et de la direction du MASS.
-  - Réalisation des évaluations à mi-parcours des programmes et projets.
+Responsable du Service Étude et Statistique (sept. 2023 – présent).
 
-Consultant Statistique du Base des Données du Registre Social (janvier 2018 - décembre 2019)
-  - Analyse des variables individuelles et ménagères, production de rapports statistiques.
-  - Suivi des indicateurs de la base de données du registre social.
+-	Supervision et coordination des activités du service ; définition des objectifs et priorités en lien avec la mission du ministère ; participation à la rédaction et publication de rapports stratégiques.
 
-Consultant du Programme Nationale Solidarité Famille(PNSF), exécute par le MASS, financé par le Banque Mondial (juillet 2017 - décembre 2019).
-Contrôleur des activités des enrôlements biométriques (juillet 2017 - décembre 2019)
-  - Suivi et comptes rendus des activités des enrôlements biométriques.
-  - Planification des activités des équipes d’enrôlements.
+Consultant – Projet Intégré de Transfert Monétaire et Renforcement du Capital Humain (PITCH), Banque Mondiale (janv. 2020 – août 2023)
 
-Autres Missions et Expériences
-- Participation à des missions de distribution de transferts d’argent et de vivres dans les 5 régions de l’intérieur en tant que chef de mission.
-- Rédaction d'un rapport statistique annuel de la base de données du registre social.
-- Participation à des missions de collectes de données dans la région de l’intérieur.
-- Analyse statistique des données du registre social avec le logiciel STATA.
-- Participations à des enquêtes à l’institut National de statistique de Djibouti (INSD) en tant que contrôleur (entre octobre 2015 au 2016).
+-	Consultant Suivi-Évaluation (janv. 2020 – août 2023) : Suivi des indicateurs programmes/projets, évaluations à mi-parcours, reporting.
+
+Consultant – Programme National Solidarité Famille (PNSF), Banque Mondiale | MASS (2017 – 2019)
+
+-	Contrôle et suivi des activités d’enrôlements biométriques.
+-	Planification et coordination des équipes de terrain.
+-	Suivi des indicateurs de la base de données du registre social.
+-	Analyse des données ménages/individus et production de rapports statistiques.
+
 
 ## Compétences Informatiques
 
