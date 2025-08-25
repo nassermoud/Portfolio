@@ -13,10 +13,10 @@ Data Analyst avec 8 ans d’expérience, spécialisé en analyse de données et 
 
 ML-Pro : Formation de Machine Learning Professionnel de Guillaume Saint-Cirgue:
 
-    • Data Science & Programmation: Python, Pandas, Numpy, SQL, Git.
-    • Machine Learning: Préprocessing, modélisation, optimisation, évaluation (Accuracy, F1-score).
-    • Algorithmes: Régressions, Arbres de décision, Random Forest, SVM, k-Means.
-    • Déploiement & Industrialisation: Streamlit, Docker, API REST, Cloud, Big Data.
+-	Data Science & Programmation: Python, Pandas, Numpy, SQL, Git.
+-	Machine Learning: Préprocessing, modélisation, optimisation, évaluation (Accuracy, F1-score).
+-	Algorithmes: Régressions, Arbres de décision, Random Forest, SVM, k-Means.
+-	Déploiement & Industrialisation: Streamlit, Docker, API REST, Cloud, Big Data.
 
 
 
@@ -28,10 +28,10 @@ Certificat du HP Life : 10 Certificats dont 2 en leadership et 8 en Entreprenari
 
 Certificat Coursera du Mars à Mai : 
 
-    • Supervised Machine Learning: Regression and Classification
-    • Advanced Learning Algorithms
-    • Unsupervised Learning, Recommenders, Reinforcement learning
-    • Agile With Atlassian Jira
+-	Supervised Machine Learning: Regression and Classification
+-	Advanced Learning Algorithms
+-	Unsupervised Learning, Recommenders, Reinforcement learning
+-	Agile With Atlassian Jira
     
 Certificat : Séminaire sur la formalisation de l’emploi et la protection sociale de Djibouti (Lieu : Chine, septembre 2023).
 
